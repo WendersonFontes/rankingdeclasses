@@ -1,0 +1,8 @@
+timestamp,usuario,role,acao,detalhes
+2025-10-06T02:17:12.327110,diretor1,Diretor,LOGOUT,Logout efetuado
+2025-10-06T02:15:16.852137,diretor1,Diretor,ADICIONAR_PROJETISTA,Loyk -> sala 3
+2025-10-06T02:14:26.088702,diretor1,Diretor,ADICIONAR_PROJETISTA,Wenderson -> sala 3
+2025-10-06T02:13:15.269158,diretor1,Diretor,LOGIN,Login bem-sucedido
+2025-10-06T01:59:35.240016,diretor1,Diretor,LOGIN,Login bem-sucedido
+2025-10-06T01:41:58.615538,diretor1,Diretor,LOGIN,Login bem-sucedido
+2025-10-06T01:38:05.858521,diretor1,Diretor,LOGIN,Login bem-sucedido

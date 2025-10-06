@@ -1,0 +1,6 @@
+usuario,nome,role,senha_hash,cor_tema,ativo,criado_em,ultimo_login,sala_atribuida
+diretor1,Diretor 1,Diretor,a4f7b6912f58f658c69e2222911fca1d9c9ff0ee17d507e3d99161ecd03b389a,,True,2025-10-06T01:29:54.733281,2025-10-06T02:13:15.242441,
+diretor2,Diretor 2,Diretor,a37495d063e7ef5b57194df9c3067392cefb9cb967f7bb12374da7610db2d043,,True,2025-10-06T01:29:54.733306,,
+diretor3,Diretor 3,Diretor,d831571459ea4fc9b5a7d108b97b1b48a9f4ea7e53ee336e99f5c1ed6619779f,,True,2025-10-06T01:29:54.733318,,
+gerente1,Gerente 1,Gerente,9f87111b1c19e3ec5c811c240423d314981218211be8bd6bd1259dbb34e1809e,,True,2025-10-06T01:29:54.733328,,
+gerente2,Gerente 2,Gerente,6e6b78843516d5e82220820da428603ebecb693ff1fdd1f69f58a092f45ef7b3,,True,2025-10-06T01:29:54.733337,,
